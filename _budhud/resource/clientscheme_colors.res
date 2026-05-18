@@ -83,7 +83,7 @@ Scheme
     ////////////////////////////////////////////////////////////////////////////////////////////////////
 
         "bh_hudDMGDisplay"                                          "243 157 048 255"   // Static damage number that appears bottom center of screen
-        "bh_HealColor"                                              "000 153 255 255"   // Medigun/arrow heal color
+        "bh_HealColor"                                              "050 205 050 255"   // Medigun/arrow heal color
         "bh_UberDrop"                                               "255 105 180 255"   // Uber drop color
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////
